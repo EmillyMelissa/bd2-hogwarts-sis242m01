@@ -8,7 +8,7 @@
 ## Aluno
 
 | Nome | Matrícula | Usuário do GitHub |
-| Emilly | 252310 | EmillyMelissa |
+| Emilly | 2532310 | EmillyMelissa |
 
 
 ## O cenário
